@@ -1,0 +1,19 @@
+h3{
+    background-color: teal;
+    color: aliceblue;
+}
+
+canvas {
+    border: 15px solid rgb(7, 0, 81);
+}
+
+canvas:hover
+{
+    border: 15px solid teal; 
+}
+
+h3 :hover
+{
+    background-color: rgb(7, 0, 81);
+    color: rgb(0, 0, 0);   
+}
